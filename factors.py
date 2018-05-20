@@ -1,4 +1,5 @@
 # This purpose of this program is to find all the factors of an input
+# Author: Jerry
 number = int(input("Please enter a positive integer: "))
 
 factors = []
